@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf587c0f.chunk.css",
+    "main.js": "/static/js/main.c68c3b0d.chunk.js",
+    "main.js.map": "/static/js/main.c68c3b0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa8ae865.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa8ae865.js.map",
+    "static/js/2.8d390339.chunk.js": "/static/js/2.8d390339.chunk.js",
+    "static/js/2.8d390339.chunk.js.map": "/static/js/2.8d390339.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.83900b536eba2944509c942bc41b3417.js": "/precache-manifest.83900b536eba2944509c942bc41b3417.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bf587c0f.chunk.css.map": "/static/css/main.bf587c0f.chunk.css.map",
+    "static/js/2.8d390339.chunk.js.LICENSE.txt": "/static/js/2.8d390339.chunk.js.LICENSE.txt",
+    "static/media/advisory-mentorship-logo.png": "/static/media/advisory-mentorship-logo.646cef6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8ae865.js",
+    "static/js/2.8d390339.chunk.js",
+    "static/css/main.bf587c0f.chunk.css",
+    "static/js/main.c68c3b0d.chunk.js"
+  ]
+}
