@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/mentorship-page/static/css/main.bf587c0f.chunk.css",
-    "main.js": "/mentorship-page/static/js/main.4ad9c9d8.chunk.js",
-    "main.js.map": "/mentorship-page/static/js/main.4ad9c9d8.chunk.js.map",
+    "main.css": "/mentorship-page/static/css/main.a38fd5b4.chunk.css",
+    "main.js": "/mentorship-page/static/js/main.20e677dd.chunk.js",
+    "main.js.map": "/mentorship-page/static/js/main.20e677dd.chunk.js.map",
     "runtime-main.js": "/mentorship-page/static/js/runtime-main.8f9d3379.js",
     "runtime-main.js.map": "/mentorship-page/static/js/runtime-main.8f9d3379.js.map",
-    "static/js/2.8d390339.chunk.js": "/mentorship-page/static/js/2.8d390339.chunk.js",
-    "static/js/2.8d390339.chunk.js.map": "/mentorship-page/static/js/2.8d390339.chunk.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/mentorship-page/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.f2ce0314.chunk.js": "/mentorship-page/static/js/2.f2ce0314.chunk.js",
+    "static/js/2.f2ce0314.chunk.js.map": "/mentorship-page/static/js/2.f2ce0314.chunk.js.map",
     "index.html": "/mentorship-page/index.html",
-    "precache-manifest.2f137b91bb6e2a1677727502ed0d4e0d.js": "/mentorship-page/precache-manifest.2f137b91bb6e2a1677727502ed0d4e0d.js",
+    "precache-manifest.fcbb1da3af79f57ef1cdd884f68c01ab.js": "/mentorship-page/precache-manifest.fcbb1da3af79f57ef1cdd884f68c01ab.js",
     "service-worker.js": "/mentorship-page/service-worker.js",
-    "static/css/main.bf587c0f.chunk.css.map": "/mentorship-page/static/css/main.bf587c0f.chunk.css.map",
-    "static/js/2.8d390339.chunk.js.LICENSE.txt": "/mentorship-page/static/js/2.8d390339.chunk.js.LICENSE.txt",
+    "static/css/2.5c17b9f1.chunk.css.map": "/mentorship-page/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.a38fd5b4.chunk.css.map": "/mentorship-page/static/css/main.a38fd5b4.chunk.css.map",
+    "static/js/2.f2ce0314.chunk.js.LICENSE.txt": "/mentorship-page/static/js/2.f2ce0314.chunk.js.LICENSE.txt",
     "static/media/advisory-mentorship-logo.png": "/mentorship-page/static/media/advisory-mentorship-logo.fb260782.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8f9d3379.js",
-    "static/js/2.8d390339.chunk.js",
-    "static/css/main.bf587c0f.chunk.css",
-    "static/js/main.4ad9c9d8.chunk.js"
+    "static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.f2ce0314.chunk.js",
+    "static/css/main.a38fd5b4.chunk.css",
+    "static/js/main.20e677dd.chunk.js"
   ]
 }
