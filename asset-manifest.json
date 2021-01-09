@@ -6,18 +6,18 @@
     "runtime-main.js": "/static/js/runtime-main.e9600890.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9600890.js.map",
     "static/css/2.27175f2b.chunk.css": "/static/css/2.27175f2b.chunk.css",
-    "static/js/2.15500da9.chunk.js": "/static/js/2.15500da9.chunk.js",
-    "static/js/2.15500da9.chunk.js.map": "/static/js/2.15500da9.chunk.js.map",
+    "static/js/2.06b1190f.chunk.js": "/static/js/2.06b1190f.chunk.js",
+    "static/js/2.06b1190f.chunk.js.map": "/static/js/2.06b1190f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.27175f2b.chunk.css.map": "/static/css/2.27175f2b.chunk.css.map",
     "static/css/main.67aa7cd2.chunk.css.map": "/static/css/main.67aa7cd2.chunk.css.map",
-    "static/js/2.15500da9.chunk.js.LICENSE.txt": "/static/js/2.15500da9.chunk.js.LICENSE.txt",
+    "static/js/2.06b1190f.chunk.js.LICENSE.txt": "/static/js/2.06b1190f.chunk.js.LICENSE.txt",
     "static/media/advisory-mentorship-logo.png": "/static/media/advisory-mentorship-logo.8aa67e97.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e9600890.js",
     "static/css/2.27175f2b.chunk.css",
-    "static/js/2.15500da9.chunk.js",
+    "static/js/2.06b1190f.chunk.js",
     "static/css/main.67aa7cd2.chunk.css",
     "static/js/main.803f03d9.chunk.js"
   ]
